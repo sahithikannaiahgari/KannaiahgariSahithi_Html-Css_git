@@ -1,0 +1,89 @@
+body{height:80%;}
+#nav
+{background-color:blue;
+margin-top:0px;
+padding:5px;
+color:white;
+width:60%;
+display:flex;
+}
+#nav #g{
+font-size:400%;
+padding-left:3%;
+padding-top:2%;
+}
+#nav h1{width:75%;
+font-size:200%;
+}
+#nav #x{
+padding-top:3%;
+padding-right:4%;
+font-size:200%;
+}
+#body1{position:relative;}
+#body1 #msg{
+position:absolute;right:21%;
+bottom:80%;}
+#body1 #pas{
+position:absolute;right:21%;
+bottom:45%;}
+#body1 input{
+margin:20px;
+width:60%;
+height:5%;
+padding:1%;
+}
+#body1 #sb
+{background-color:blue;
+color:white;
+height:4%;
+border-radius:5%;
+font-family:bold;
+font-size:100%;
+
+}
+#nav1{
+width:60%;
+display:flex;}
+#nav1 a{
+text-decoration:none;
+color:blue;
+flex-grow:2;
+}
+#nav1 #pas{text-align:left;}
+#nav1 #reg{text-align:right;}
+#body2 input{margin:20px;
+width:60%;
+height:5%;
+padding:1%;}
+#body2 #sb1
+{width:60%;
+height:4%;
+border:1px solid blue;
+background-color:blue;
+border-radius:5%;
+padding:3px;}
+#body2 #sb1 a{
+color:white;
+text-decoration:none;}
+#body2 #sb2
+{width:60%;
+height:4%;
+border:1px solid orange;
+background-color:orange;
+border-radius:5%;
+padding:3px;}
+#body2 #sb2 a{
+color:white;
+text-decoration:none;}
+#body2 #sb3
+{width:60%;
+height:4%;
+border:1px solid yellow;
+background-color:yellow;
+border-radius:5%;
+padding:3px;
+margin-top:7%;}
+#body2 #sb3 a{
+color:white;
+text-decoration:none;}
